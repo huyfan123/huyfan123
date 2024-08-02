@@ -1,8 +1,12 @@
 # 💫About Me :
 👦 My full name is Phan Cong Huy
+
 🎂 My birthday is November 22
+
 🏠 I come from Hue, Vietnam
+
 🏫 I am studying at Vietnam-Korea University of Information and Communications Technology - VKU
+
 🤩 Software Technology major
 
 ## 🌐Socials
